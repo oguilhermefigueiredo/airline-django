@@ -7,7 +7,9 @@
 ### Accessing the routes
 
 http://localhost:8000/flights
+
 http://localhost:8000/users
+
 http://localhost:8000/admin
 
 You can manage flights, users and airports using the admin page. The login
